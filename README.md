@@ -26,7 +26,7 @@ interface.
 
 # Prerequisites
 
-Before you can run the Local Food Sources Web Application, you will need the following:
+Before you can run the Food Oasis Web Application, you will need the following:
 
 - Node.js and npm (Node Package Manager) installed on your computer.
 
